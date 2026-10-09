@@ -26,7 +26,7 @@
 
 <!-- AI-terminal style typing (chars appear one after another, lines stay) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F7C59F&background=7D1E23&vCenter=true&multiline=true&repeat=false&width=520&height=110&lines=%3E+ollama+run+mae;%3E+Loading+curiosity...+done+%E2%9C%85;%3E+Ready+to+build+something+cool+%E2%96%8C" alt="AI terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F7C59F&background=7D1E23&vCenter=true&multiline=true&repeat=false&width=520&height=110&lines=%3E+ollama+run+Gab;%3E+Loading+curiosity...+done+%E2%9C%85;%3E+Ready+to+build+something+cool+%E2%96%8C" alt="AI terminal" />
 </p>
 
 ---
